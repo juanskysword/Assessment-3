@@ -36,3 +36,15 @@ input {
 img {
 	max-width: 300px;
 }
+
+.btn {
+	background-color: yellow;
+	border: thick double blue;
+  	color: black;
+  	padding: 15px 20px;
+  	text-align: center;
+  	text-decoration: underline;
+	font-family: cursive;
+	display: table;
+	font-size: 18px;
+}
